@@ -33,6 +33,8 @@ public class Test2 extends BaseClass {
 		
 		reportTestName("Test 1 start");
 		
+		//new commit in git hub
+		
 		log.debug("url=" + url);
 		//driver.get("http://www.google.com");
 		driver.get(url);
