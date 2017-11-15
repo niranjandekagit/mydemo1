@@ -28,7 +28,6 @@ public class BaseClass extends ExcelDataProvider {
 	private WebDriver driver;
 	Logger log = Logger.getLogger(BaseClass.class);
 	
-
 	static ExtentReports extent;
 	static ExtentTest Reportlogger;
 
