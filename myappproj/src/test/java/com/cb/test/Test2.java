@@ -33,6 +33,8 @@ public class Test2 extends BaseClass {
 		
 		reportTestName("Test 1 start");
 		
+		System.out.println("commit2");
+		
 		//new commit in git hub
 		
 		log.debug("url=" + url);
