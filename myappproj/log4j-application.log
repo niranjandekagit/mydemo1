@@ -1,0 +1,860 @@
+2017-11-13 16:47:28,539  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-13 16:47:29,170  INFO [main] JiRaTest:32 - Launched test url=https://jira.closebrothers.com/login.jsp
+ 2017-11-13 16:47:29,175  INFO [main] JiRaTest:40 - Test Data Iteration = 1
+ 2017-11-13 16:47:29,184  INFO [main] JiRaTest:32 - Launched test url=https://jira.closebrothers.com/login.jsp
+ 2017-11-13 16:47:29,184  INFO [main] JiRaTest:40 - Test Data Iteration = 1
+ 2017-11-13 16:47:29,187  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 17:39:27,912  INFO [main] BaseClass:118 - Chrome browser launching..
+ 2017-11-13 17:39:31,723  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 17:39:31,728  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 17:39:32,699  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 17:39:35,000  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 17:39:45,136  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 17:39:45,137  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 17:39:45,592  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 17:39:53,412  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 17:40:05,096  INFO [main] JiRaTest:59 - Password selected=123456.0
+ 2017-11-13 17:40:10,324  INFO [main] JiRaTest:64 - Click on the next button
+ 2017-11-13 17:47:01,970  INFO [main] BaseClass:118 - Chrome browser launching..
+ 2017-11-13 17:47:11,173  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 17:47:11,178  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 17:47:12,032  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 17:47:14,387  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 17:47:24,468  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 17:47:24,468  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 17:47:24,753  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 17:47:30,712  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 17:47:38,273  INFO [main] JiRaTest:59 - Password selected=123456.0
+ 2017-11-13 17:47:48,333  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 19:35:58,956  INFO [main] BaseClass:118 - Chrome browser launching..
+ 2017-11-13 19:36:02,450  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 19:36:02,456  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 19:36:04,281  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 19:36:06,586  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 19:36:16,645  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 19:36:16,646  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 19:36:17,070  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 19:36:28,381  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 19:36:38,475  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 19:43:56,688  INFO [main] BaseClass:118 - Chrome browser launching..
+ 2017-11-13 19:44:00,209  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 19:44:00,214  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 19:44:01,952  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 19:44:04,371  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 19:44:14,432  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 19:44:14,432  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 19:44:14,788  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 19:44:24,868  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 19:49:29,123  INFO [main] BaseClass:118 - Chrome browser launching..
+ 2017-11-13 19:49:32,802  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 19:49:32,807  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 19:49:34,886  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 19:49:37,317  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 19:49:47,469  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 19:49:47,470  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 19:49:47,772  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 19:49:57,840  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 20:00:46,696  INFO [main] BaseClass:118 - Chrome browser launching..
+ 2017-11-13 20:00:50,006  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:00:50,011  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:00:53,834  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:00:56,218  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 20:01:06,374  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:01:06,375  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:01:06,688  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:01:12,551  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 20:01:22,613  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 20:02:09,394  INFO [main] BaseClass:118 - Chrome browser launching..
+ 2017-11-13 20:02:12,512  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:02:12,516  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:02:18,152  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:02:20,512  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 20:02:30,579  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:02:30,580  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:02:30,887  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:02:40,951  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 20:06:31,754  INFO [main] BaseClass:118 - Chrome browser launching..
+ 2017-11-13 20:06:34,851  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:06:34,856  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:06:42,058  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:06:44,380  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 20:06:54,500  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:06:54,500  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:06:54,771  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:07:04,804  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 20:16:56,055  INFO [main] BaseClass:118 - Chrome browser launching..
+ 2017-11-13 20:16:59,633  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:16:59,638  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:17:02,870  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:17:05,374  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 20:17:15,510  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:17:15,511  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:17:15,925  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:17:21,371  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 20:17:31,449  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 20:18:21,754  INFO [main] BaseClass:118 - Chrome browser launching..
+ 2017-11-13 20:18:25,944  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:18:25,950  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:18:28,719  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:18:31,015  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 20:18:41,156  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:18:41,158  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:18:41,457  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:19:40,682  INFO [main] BaseClass:118 - Chrome browser launching..
+ 2017-11-13 20:19:45,251  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:19:45,258  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:19:47,854  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:19:50,148  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 20:20:00,203  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:20:00,204  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:20:00,555  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:20:10,631  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 20:20:53,798  INFO [main] BaseClass:118 - Chrome browser launching..
+ 2017-11-13 20:20:57,467  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:20:57,473  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:20:59,122  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:21:01,431  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 20:21:04,063  INFO [main] JiRaTest:61 - Click on the next button
+ 2017-11-13 20:21:08,246  INFO [main] JiRaTest:66 - Password selected=123456.0
+ 2017-11-13 20:21:18,321  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:21:18,322  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:21:18,594  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:21:28,667  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 20:23:40,978  INFO [main] BaseClass:118 - Chrome browser launching..
+ 2017-11-13 20:23:44,578  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:23:44,582  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:23:47,069  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:23:49,353  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 20:23:52,128  INFO [main] JiRaTest:61 - Click on the next button
+ 2017-11-13 20:23:56,518  INFO [main] JiRaTest:66 - Password selected=123456.0
+ 2017-11-13 20:24:06,587  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:24:06,587  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:24:06,825  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:24:11,637  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 20:24:14,164  INFO [main] JiRaTest:61 - Click on the next button
+ 2017-11-13 20:24:18,362  INFO [main] JiRaTest:66 - Password selected=123456.0
+ 2017-11-13 20:24:28,463  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 20:25:15,037  INFO [main] BaseClass:118 - Chrome browser launching..
+ 2017-11-13 20:25:18,690  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:25:18,694  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:25:22,070  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:25:24,486  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-13 20:25:27,132  INFO [main] JiRaTest:61 - Click on the next button
+ 2017-11-13 20:25:31,424  INFO [main] JiRaTest:66 - Password selected=123456.0
+ 2017-11-13 20:25:33,951  INFO [main] JiRaTest:71 - Click on the SignIn button
+ 2017-11-13 20:25:38,999  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:25:38,999  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-13 20:25:39,199  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-13 20:25:41,989  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 20:26:01,861  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-13 20:26:02,564  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:26:02,570  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:26:02,581  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:26:02,581  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:26:02,585  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 20:26:40,445  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-13 20:26:42,496  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:26:42,501  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:26:42,518  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:26:42,519  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:26:42,521  INFO [main] BaseClass:150 - Closing the browser
+ 2017-11-13 20:35:25,541  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-13 20:36:17,239  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:36:17,245  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:36:17,254  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:36:17,254  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:36:17,258  INFO [main] BaseClass:151 - Closing the browser
+ 2017-11-13 20:37:20,512  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-13 20:38:11,071  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:38:11,075  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:38:11,085  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:38:11,085  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:38:11,088  INFO [main] BaseClass:151 - Closing the browser
+ 2017-11-13 20:45:29,063  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-13 20:45:29,762  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:45:29,766  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:45:29,774  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:45:29,775  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:45:29,778  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-13 20:48:01,243  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-13 20:48:03,436  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:48:03,442  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:48:03,454  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-13 20:48:03,455  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-13 20:53:37,130  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-13 20:54:18,756  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-13 20:54:52,535  INFO [main] BaseClass:120 - Chrome browser launching..
+ 2017-11-14 09:33:39,269  INFO [main] BaseClass:120 - Chrome browser launching..
+ 2017-11-14 09:45:34,831  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 09:52:15,195  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 09:52:20,958  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 09:52:20,963  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 09:52:22,104  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 09:52:24,379  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-14 09:52:27,140  INFO [main] JiRaTest:61 - Click on the next button
+ 2017-11-14 09:52:31,246  INFO [main] JiRaTest:66 - Password selected=123456.0
+ 2017-11-14 09:52:34,121  INFO [main] JiRaTest:71 - Click on the SignIn button
+ 2017-11-14 09:52:39,150  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 09:52:39,150  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 09:52:39,600  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 09:52:47,365  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-14 09:52:50,152  INFO [main] JiRaTest:61 - Click on the next button
+ 2017-11-14 09:52:54,245  INFO [main] JiRaTest:66 - Password selected=123456.0
+ 2017-11-14 09:52:57,154  INFO [main] JiRaTest:71 - Click on the SignIn button
+ 2017-11-14 09:53:02,158  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 09:53:08,076  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 09:53:14,234  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 09:53:14,240  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 09:53:15,068  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 09:53:17,290  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-14 09:53:20,228  INFO [main] JiRaTest:61 - Click on the next button
+ 2017-11-14 09:53:24,336  INFO [main] JiRaTest:66 - Password selected=123456.0
+ 2017-11-14 09:53:27,269  INFO [main] JiRaTest:71 - Click on the SignIn button
+ 2017-11-14 09:57:03,696  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 09:57:08,933  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 09:57:08,938  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 09:57:09,921  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 09:57:21,895  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-14 09:57:24,764  INFO [main] JiRaTest:61 - Click on the next button
+ 2017-11-14 09:57:28,897  INFO [main] JiRaTest:66 - Password selected=1234567.0
+ 2017-11-14 09:57:31,730  INFO [main] JiRaTest:71 - Click on the SignIn button
+ 2017-11-14 09:57:36,736  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 09:57:36,737  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 09:57:37,120  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 09:57:47,779  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-14 09:57:50,688  INFO [main] JiRaTest:61 - Click on the next button
+ 2017-11-14 09:57:54,791  INFO [main] JiRaTest:66 - Password selected=123456.0
+ 2017-11-14 09:57:58,073  INFO [main] JiRaTest:71 - Click on the SignIn button
+ 2017-11-14 09:58:22,322  INFO [main] BaseClass:120 - Chrome browser launching..
+ 2017-11-14 09:58:25,700  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 09:58:25,705  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 09:58:26,667  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 09:58:29,085  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-14 09:58:31,595  INFO [main] JiRaTest:61 - Click on the next button
+ 2017-11-14 09:58:35,741  INFO [main] JiRaTest:66 - Password selected=1234567.0
+ 2017-11-14 09:58:38,186  INFO [main] JiRaTest:71 - Click on the SignIn button
+ 2017-11-14 09:58:43,193  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 09:58:43,193  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 09:58:43,358  INFO [main] JiRaTest:48 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 09:58:50,337  INFO [main] JiRaTest:56 - Username selected=ROLFGERLINGTC
+ 2017-11-14 09:58:52,739  INFO [main] JiRaTest:61 - Click on the next button
+ 2017-11-14 09:58:56,909  INFO [main] JiRaTest:66 - Password selected=123456.0
+ 2017-11-14 09:58:59,355  INFO [main] JiRaTest:71 - Click on the SignIn button
+ 2017-11-14 09:59:04,363  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 09:59:53,867  INFO [main] BaseClass:120 - Chrome browser launching..
+ 2017-11-14 09:59:56,997  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 09:59:57,001  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 09:59:57,914  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:00:06,322  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:01:12,842  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:01:12,842  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:01:13,016  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:01:29,979  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:01:32,430  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:02:44,385  INFO [main] BaseClass:120 - Chrome browser launching..
+ 2017-11-14 10:02:47,620  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:02:47,626  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:02:48,474  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:02:53,546  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:02:56,085  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:04:08,284  INFO [main] BaseClass:120 - Chrome browser launching..
+ 2017-11-14 10:05:11,061  INFO [main] BaseClass:120 - Chrome browser launching..
+ 2017-11-14 10:05:14,107  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:05:14,113  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:05:14,950  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:05:17,302  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:05:19,828  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:08:39,499  INFO [main] BaseClass:120 - Chrome browser launching..
+ 2017-11-14 10:08:42,706  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:08:42,712  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:08:43,524  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:08:45,849  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:08:48,422  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:08:50,453  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:08:50,454  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:08:50,604  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:08:55,237  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:08:57,715  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:09:02,018  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 10:09:19,111  INFO [main] BaseClass:120 - Chrome browser launching..
+ 2017-11-14 10:09:22,424  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:09:22,428  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:09:23,302  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:09:25,640  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:09:28,176  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:10:11,360  INFO [main] BaseClass:120 - Chrome browser launching..
+ 2017-11-14 10:10:14,718  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:10:14,723  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:10:15,739  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:10:18,166  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:10:20,679  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:14:12,469  INFO [main] BaseClass:120 - Chrome browser launching..
+ 2017-11-14 10:15:05,339  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 10:29:49,694  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 10:31:22,347  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 10:31:43,161  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 10:32:01,973  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 10:32:25,570  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 10:34:21,206  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 10:35:22,450  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 10:35:28,456  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:35:28,461  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:35:29,342  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:35:31,583  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:35:34,333  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:35:38,422  INFO [main] JiRaTest:67 - Password selected=1234567
+ 2017-11-14 10:35:41,225  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 10:35:46,240  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:35:46,241  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 10:35:46,695  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:35:54,603  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:35:57,392  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:36:01,475  INFO [main] JiRaTest:67 - Password selected=123456
+ 2017-11-14 10:36:15,787  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 10:36:20,792  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 10:42:46,716  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 10:42:52,507  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:42:52,513  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:42:53,350  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:42:55,580  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:42:58,392  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:43:02,503  INFO [main] JiRaTest:67 - Password selected=1234567
+ 2017-11-14 10:43:05,429  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 10:43:28,987  INFO [main] JiRaTest:77 - Logout label=
+ 2017-11-14 10:43:34,148  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:43:34,148  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 10:43:34,476  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:43:40,071  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:43:42,897  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:43:46,977  INFO [main] JiRaTest:67 - Password selected=123456
+ 2017-11-14 10:43:59,759  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 10:44:20,924  INFO [main] JiRaTest:77 - Logout label=Log out
+ 2017-11-14 10:44:20,929  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 10:53:43,977  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 10:53:49,952  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:53:49,957  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:53:50,867  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:53:53,105  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:53:58,196  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:54:02,278  INFO [main] JiRaTest:67 - Password selected=1234567
+ 2017-11-14 10:54:05,140  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 10:54:20,365  INFO [main] JiRaTest:77 - Logout label=
+ 2017-11-14 10:54:20,365  INFO [main] JiRaTest:85 - Login succesful
+ 2017-11-14 10:54:30,449  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:54:30,449  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:54:30,764  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:54:42,711  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:54:45,602  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:54:49,741  INFO [main] JiRaTest:67 - Password selected=123456
+ 2017-11-14 10:55:03,611  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 10:55:08,690  INFO [main] JiRaTest:77 - Logout label=Log out
+ 2017-11-14 10:55:08,690  INFO [main] JiRaTest:81 - Login NOT succesful
+ 2017-11-14 10:55:08,694  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 10:55:39,411  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 10:55:45,193  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:55:45,199  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:55:46,166  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:55:48,413  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:55:51,135  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:55:55,218  INFO [main] JiRaTest:67 - Password selected=1234567
+ 2017-11-14 10:55:58,125  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 10:56:13,211  INFO [main] JiRaTest:77 - Logout label=
+ 2017-11-14 10:56:17,667  INFO [main] JiRaTest:85 - Login succesful
+ 2017-11-14 10:56:50,401  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:56:50,402  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:56:50,712  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:57:00,835  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 10:57:51,504  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 10:57:57,104  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:57:57,110  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:57:58,090  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:58:00,346  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:58:03,133  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:58:07,228  INFO [main] JiRaTest:67 - Password selected=1234567
+ 2017-11-14 10:58:10,073  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 10:58:25,190  INFO [main] JiRaTest:77 - Logout label=
+ 2017-11-14 10:58:25,191  INFO [main] JiRaTest:85 - Login NOT succesful
+ 2017-11-14 10:58:25,215  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 10:58:25,215  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 10:58:25,530  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 10:58:29,621  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 10:58:32,541  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 10:58:36,652  INFO [main] JiRaTest:67 - Password selected=123456
+ 2017-11-14 10:58:50,637  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 10:58:55,721  INFO [main] JiRaTest:77 - Logout label=Log out
+ 2017-11-14 10:58:55,721  INFO [main] JiRaTest:81 - Login succesful
+ 2017-11-14 10:58:57,892  INFO [main] JiRaTest:94 - Login label=Login
+ 2017-11-14 10:59:05,126  INFO [main] JiRaTest:98 - Logout is succesful
+ 2017-11-14 10:59:06,969  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 11:01:52,378  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 11:01:58,403  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:01:58,408  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:01:59,273  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:02:01,487  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:02:04,527  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 11:02:08,651  INFO [main] JiRaTest:67 - Password selected=1234567
+ 2017-11-14 11:02:11,534  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 11:02:26,632  INFO [main] JiRaTest:77 - Logout label=
+ 2017-11-14 11:02:26,632  INFO [main] JiRaTest:85 - Login NOT succesful
+ 2017-11-14 11:02:26,644  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:02:26,644  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:02:27,037  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:02:31,299  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:02:34,044  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 11:02:38,116  INFO [main] JiRaTest:67 - Password selected=123456
+ 2017-11-14 11:02:51,290  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 11:02:56,385  INFO [main] JiRaTest:77 - Logout label=Log out
+ 2017-11-14 11:02:56,385  INFO [main] JiRaTest:81 - Login succesful
+ 2017-11-14 11:02:58,583  INFO [main] JiRaTest:93 - Login label=Login
+ 2017-11-14 11:02:58,584  INFO [main] JiRaTest:97 - Logout is succesful
+ 2017-11-14 11:02:58,587  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 11:17:11,342  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 11:17:28,987  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:18:31,023  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:18:50,336  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:19:10,804  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:19:30,204  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 11:19:44,210  INFO [main] JiRaTest:67 - Password selected=1234567
+ 2017-11-14 11:19:53,963  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 11:20:44,789  INFO [main] JiRaTest:77 - Logout label=
+ 2017-11-14 11:20:52,590  INFO [main] JiRaTest:85 - Login NOT succesful
+ 2017-11-14 11:21:07,099  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:21:13,046  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:21:16,238  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:21:27,330  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:21:30,266  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 11:21:34,345  INFO [main] JiRaTest:67 - Password selected=123456
+ 2017-11-14 11:21:48,950  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 11:21:54,006  INFO [main] JiRaTest:77 - Logout label=Log out
+ 2017-11-14 11:21:54,006  INFO [main] JiRaTest:81 - Login succesful
+ 2017-11-14 11:21:56,221  INFO [main] JiRaTest:93 - Login label=Login
+ 2017-11-14 11:22:05,058  INFO [main] JiRaTest:97 - Logout is succesful
+ 2017-11-14 11:22:08,505  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 11:32:28,164  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 11:32:33,806  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:32:33,811  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:32:34,844  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:32:37,060  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:32:39,982  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 11:32:44,069  INFO [main] JiRaTest:67 - Password selected=1234567
+ 2017-11-14 11:32:47,155  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 11:33:02,231  INFO [main] JiRaTest:77 - Logout label=
+ 2017-11-14 11:33:02,232  INFO [main] JiRaTest:85 - Login NOT succesful
+ 2017-11-14 11:33:02,262  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:33:02,262  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:33:02,672  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:33:05,931  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 11:33:42,414  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 11:33:48,108  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:33:48,114  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:33:49,052  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:33:51,333  INFO [main] JiRaTest:57 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:33:54,220  INFO [main] JiRaTest:62 - Click on the next button
+ 2017-11-14 11:33:58,302  INFO [main] JiRaTest:67 - Password selected=1234567
+ 2017-11-14 11:34:01,366  INFO [main] JiRaTest:72 - Click on the SignIn button
+ 2017-11-14 11:34:16,443  INFO [main] JiRaTest:77 - Logout label=
+ 2017-11-14 11:34:16,444  INFO [main] JiRaTest:85 - Login NOT succesful
+ 2017-11-14 11:34:16,459  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:34:16,459  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:34:16,795  INFO [main] JiRaTest:49 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:34:26,927  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 11:35:05,961  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 11:35:12,017  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:35:12,023  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:35:13,645  INFO [main] JiRaTest:50 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:35:23,797  INFO [main] JiRaTest:58 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:35:26,657  INFO [main] JiRaTest:63 - Click on the next button
+ 2017-11-14 11:35:30,737  INFO [main] JiRaTest:68 - Password selected=1234567
+ 2017-11-14 11:35:33,596  INFO [main] JiRaTest:73 - Click on the SignIn button
+ 2017-11-14 11:35:48,746  INFO [main] JiRaTest:78 - Logout label=
+ 2017-11-14 11:35:48,746  INFO [main] JiRaTest:86 - Login NOT succesful
+ 2017-11-14 11:35:48,760  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:35:48,760  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:35:49,956  INFO [main] JiRaTest:50 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:35:52,085  INFO [main] JiRaTest:58 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:35:54,976  INFO [main] JiRaTest:63 - Click on the next button
+ 2017-11-14 11:35:59,054  INFO [main] JiRaTest:68 - Password selected=123456
+ 2017-11-14 11:36:12,877  INFO [main] JiRaTest:73 - Click on the SignIn button
+ 2017-11-14 11:36:17,946  INFO [main] JiRaTest:78 - Logout label=Log out
+ 2017-11-14 11:36:17,947  INFO [main] JiRaTest:82 - Login succesful
+ 2017-11-14 11:36:20,162  INFO [main] JiRaTest:94 - Login label=Login
+ 2017-11-14 11:36:20,162  INFO [main] JiRaTest:98 - Logout is succesful
+ 2017-11-14 11:36:20,166  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 11:36:29,202  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 11:36:35,194  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:36:35,199  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:36:36,535  INFO [main] JiRaTest:50 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:37:39,534  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 11:37:45,292  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:37:45,298  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:37:46,530  INFO [main] JiRaTest:51 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:37:48,794  INFO [main] JiRaTest:59 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:37:51,579  INFO [main] JiRaTest:64 - Click on the next button
+ 2017-11-14 11:37:55,664  INFO [main] JiRaTest:69 - Password selected=1234567
+ 2017-11-14 11:37:58,582  INFO [main] JiRaTest:74 - Click on the SignIn button
+ 2017-11-14 11:38:13,690  INFO [main] JiRaTest:79 - Logout label=
+ 2017-11-14 11:38:13,690  INFO [main] JiRaTest:87 - Login NOT succesful
+ 2017-11-14 11:38:13,701  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:38:13,701  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:38:13,870  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 11:38:42,948  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 11:38:48,688  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:38:48,693  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:38:49,742  INFO [main] JiRaTest:51 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:38:51,996  INFO [main] JiRaTest:59 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:38:54,741  INFO [main] JiRaTest:64 - Click on the next button
+ 2017-11-14 11:38:58,846  INFO [main] JiRaTest:69 - Password selected=1234567
+ 2017-11-14 11:39:01,752  INFO [main] JiRaTest:74 - Click on the SignIn button
+ 2017-11-14 11:39:16,808  INFO [main] JiRaTest:79 - Logout label=
+ 2017-11-14 11:39:16,808  INFO [main] JiRaTest:87 - Login NOT succesful
+ 2017-11-14 11:39:16,821  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:39:16,821  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:39:16,979  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 11:39:38,660  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 11:39:44,315  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:39:44,320  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:39:45,241  INFO [main] JiRaTest:50 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:39:47,519  INFO [main] JiRaTest:58 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:39:50,289  INFO [main] JiRaTest:63 - Click on the next button
+ 2017-11-14 11:39:54,370  INFO [main] JiRaTest:68 - Password selected=1234567
+ 2017-11-14 11:39:57,267  INFO [main] JiRaTest:73 - Click on the SignIn button
+ 2017-11-14 11:40:12,368  INFO [main] JiRaTest:78 - Logout label=
+ 2017-11-14 11:40:12,368  INFO [main] JiRaTest:86 - Login NOT succesful
+ 2017-11-14 11:40:12,380  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:40:12,380  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:40:12,712  INFO [main] JiRaTest:50 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:44:12,247  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 11:44:18,007  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:44:18,012  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:44:18,810  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:44:21,026  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:44:23,854  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 11:44:27,967  INFO [main] JiRaTest:72 - Password selected=1234567
+ 2017-11-14 11:44:30,813  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 11:44:45,890  INFO [main] JiRaTest:82 - Logout label=
+ 2017-11-14 11:44:45,891  INFO [main] JiRaTest:90 - Login NOT succesful
+ 2017-11-14 11:44:45,905  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:44:45,905  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:44:46,245  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:44:56,402  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 11:45:16,477  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 11:45:21,948  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:45:21,952  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:45:22,812  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:45:25,021  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:45:27,908  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 11:45:32,016  INFO [main] JiRaTest:72 - Password selected=1234567
+ 2017-11-14 11:45:34,971  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 11:45:50,044  INFO [main] JiRaTest:82 - Logout label=
+ 2017-11-14 11:45:50,044  INFO [main] JiRaTest:90 - Login NOT succesful
+ 2017-11-14 11:45:50,056  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:45:50,056  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:45:50,473  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:46:00,646  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 11:46:14,568  INFO [main] BaseClass:113 - firefox browser launching..
+ 2017-11-14 11:46:19,888  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:46:19,894  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:46:20,877  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:46:23,117  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:46:25,851  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 11:46:29,980  INFO [main] JiRaTest:72 - Password selected=1234567
+ 2017-11-14 11:46:32,922  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 11:46:48,004  INFO [main] JiRaTest:82 - Logout label=
+ 2017-11-14 11:46:48,004  INFO [main] JiRaTest:90 - Login NOT succesful
+ 2017-11-14 11:46:48,016  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:46:48,016  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 11:46:49,137  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:46:51,252  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:46:54,169  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 11:46:58,273  INFO [main] JiRaTest:72 - Password selected=123456
+ 2017-11-14 11:47:12,341  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 11:47:17,392  INFO [main] JiRaTest:82 - Logout label=Log out
+ 2017-11-14 11:47:17,392  INFO [main] JiRaTest:86 - Login succesful
+ 2017-11-14 11:47:19,629  INFO [main] JiRaTest:100 - Login label=Login
+ 2017-11-14 11:47:19,630  INFO [main] JiRaTest:104 - Logout is succesful
+ 2017-11-14 11:47:19,632  INFO [main] BaseClass:152 - Closing the browser
+ 2017-11-14 11:50:10,767  INFO [main] BaseClass:123 - Chrome browser launching..
+ 2017-11-14 11:50:14,287  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:50:14,291  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:50:15,152  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:50:17,509  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:50:19,997  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 11:50:24,220  INFO [main] JiRaTest:72 - Password selected=1234567
+ 2017-11-14 11:50:26,656  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 11:50:41,708  INFO [main] JiRaTest:82 - Logout label=
+ 2017-11-14 11:50:41,709  INFO [main] JiRaTest:90 - Login NOT succesful
+ 2017-11-14 11:50:41,719  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:50:41,724  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 11:50:42,197  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:50:44,389  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:50:46,809  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 11:50:50,937  INFO [main] JiRaTest:72 - Password selected=123456
+ 2017-11-14 11:51:05,566  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 11:51:10,666  INFO [main] JiRaTest:82 - Logout label=Log out
+ 2017-11-14 11:51:10,667  INFO [main] JiRaTest:86 - Login succesful
+ 2017-11-14 11:51:12,909  INFO [main] JiRaTest:100 - Login label=Login
+ 2017-11-14 11:51:12,909  INFO [main] JiRaTest:104 - Logout is succesful
+ 2017-11-14 11:51:12,912  INFO [main] BaseClass:155 - Closing the browser
+ 2017-11-14 11:58:38,018  INFO [main] BaseClass:129 - Chrome browser launching..
+ 2017-11-14 11:58:40,956  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:58:40,960  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 11:58:41,922  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:58:44,298  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:58:46,887  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 11:58:51,047  INFO [main] JiRaTest:72 - Password selected=1234567
+ 2017-11-14 11:58:53,508  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 11:59:08,585  INFO [main] JiRaTest:82 - Logout label=
+ 2017-11-14 11:59:08,585  INFO [main] JiRaTest:90 - Login NOT succesful
+ 2017-11-14 11:59:08,609  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 11:59:08,609  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 11:59:09,164  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 11:59:11,412  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 11:59:13,881  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 11:59:18,018  INFO [main] JiRaTest:72 - Password selected=123456
+ 2017-11-14 11:59:32,589  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 11:59:37,674  INFO [main] JiRaTest:82 - Logout label=Log out
+ 2017-11-14 11:59:37,675  INFO [main] JiRaTest:86 - Login succesful
+ 2017-11-14 11:59:39,887  INFO [main] JiRaTest:100 - Login label=Login
+ 2017-11-14 11:59:39,887  INFO [main] JiRaTest:104 - Logout is succesful
+ 2017-11-14 11:59:39,890  INFO [main] BaseClass:161 - Closing the browser
+ 2017-11-14 12:00:31,859  INFO [main] BaseClass:136 - IE browser launching..
+ 2017-11-14 12:00:42,735  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 12:00:42,740  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 12:00:44,700  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 12:00:48,553  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 12:00:52,015  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 12:00:56,447  INFO [main] JiRaTest:72 - Password selected=1234567
+ 2017-11-14 12:00:59,977  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 12:01:15,060  INFO [main] JiRaTest:82 - Logout label=
+ 2017-11-14 12:01:15,062  INFO [main] JiRaTest:90 - Login NOT succesful
+ 2017-11-14 12:01:15,095  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 12:01:15,097  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 12:01:17,143  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 12:01:20,977  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 12:01:24,577  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 12:01:28,959  INFO [main] JiRaTest:72 - Password selected=123456
+ 2017-11-14 12:01:43,304  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 12:01:48,544  INFO [main] JiRaTest:82 - Logout label=Log out
+ 2017-11-14 12:01:48,544  INFO [main] JiRaTest:86 - Login succesful
+ 2017-11-14 12:02:00,935  INFO [main] JiRaTest:100 - Login label=
+ 2017-11-14 12:02:00,936  INFO [main] JiRaTest:107 - Logout is NOT succesful
+ 2017-11-14 12:02:00,940  INFO [main] BaseClass:161 - Closing the browser
+ 2017-11-14 12:02:37,057  INFO [main] BaseClass:143 - Phantom browser launching..
+ 2017-11-14 12:02:40,654  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 12:02:40,659  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 12:02:41,353  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 12:02:43,451  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 12:02:45,798  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 12:02:49,864  INFO [main] JiRaTest:72 - Password selected=1234567
+ 2017-11-14 12:02:52,218  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 12:03:07,395  INFO [main] JiRaTest:82 - Logout label=
+ 2017-11-14 12:03:07,395  INFO [main] JiRaTest:90 - Login NOT succesful
+ 2017-11-14 12:03:07,404  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 12:03:07,404  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 12:03:07,826  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 12:03:09,946  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 12:03:12,265  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 12:03:16,355  INFO [main] JiRaTest:72 - Password selected=123456
+ 2017-11-14 12:03:30,730  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 12:03:35,762  INFO [main] JiRaTest:82 - Logout label=Log out
+ 2017-11-14 12:03:35,762  INFO [main] JiRaTest:86 - Login succesful
+ 2017-11-14 12:03:37,890  INFO [main] JiRaTest:100 - Login label=Login
+ 2017-11-14 12:03:37,891  INFO [main] JiRaTest:104 - Logout is succesful
+ 2017-11-14 12:03:37,893  INFO [main] BaseClass:161 - Closing the browser
+ 2017-11-14 12:20:26,486  INFO [main] BaseClass:123 - firefox browser launching..
+ 2017-11-14 12:20:33,483  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 12:20:33,488  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 12:20:34,493  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 12:20:36,785  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 12:20:39,626  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 12:20:43,742  INFO [main] JiRaTest:72 - Password selected=1234567
+ 2017-11-14 12:20:46,625  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 12:21:01,712  INFO [main] JiRaTest:82 - Logout label=
+ 2017-11-14 12:21:01,713  INFO [main] JiRaTest:90 - Login NOT succesful
+ 2017-11-14 12:21:01,722  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 12:21:01,723  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 12:21:02,788  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 12:21:04,898  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 12:21:07,813  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 12:21:11,910  INFO [main] JiRaTest:72 - Password selected=123456
+ 2017-11-14 12:21:26,116  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 12:21:31,174  INFO [main] JiRaTest:82 - Logout label=Log out
+ 2017-11-14 12:21:31,175  INFO [main] JiRaTest:86 - Login succesful
+ 2017-11-14 12:21:33,387  INFO [main] JiRaTest:100 - Login label=Login
+ 2017-11-14 12:21:33,388  INFO [main] JiRaTest:104 - Logout is succesful
+ 2017-11-14 12:21:33,390  INFO [main] BaseClass:162 - Closing the browser
+ 2017-11-14 12:48:27,670  INFO [main] BaseClass:130 - Chrome browser launching..
+ 2017-11-14 12:48:30,937  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 12:48:30,943  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 12:48:32,039  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 12:48:34,399  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 12:48:36,893  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 12:48:41,033  INFO [main] JiRaTest:72 - Password selected=1234567
+ 2017-11-14 12:48:43,473  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 12:48:58,508  INFO [main] JiRaTest:82 - Logout label=
+ 2017-11-14 12:48:58,509  INFO [main] JiRaTest:90 - Login NOT succesful
+ 2017-11-14 12:48:58,525  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 12:48:58,531  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 12:48:59,023  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 12:49:01,243  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 12:49:03,682  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 12:49:07,843  INFO [main] JiRaTest:72 - Password selected=123456
+ 2017-11-14 12:49:24,219  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 12:49:29,354  INFO [main] JiRaTest:82 - Logout label=Log out
+ 2017-11-14 12:49:29,354  INFO [main] JiRaTest:86 - Login succesful
+ 2017-11-14 12:49:31,609  INFO [main] JiRaTest:100 - Login label=Login
+ 2017-11-14 12:49:31,609  INFO [main] JiRaTest:104 - Logout is succesful
+ 2017-11-14 12:49:31,612  INFO [main] BaseClass:162 - Closing the browser
+ 2017-11-14 15:33:12,546  INFO [main] BaseClass:123 - firefox browser launching..
+ 2017-11-14 15:33:18,384  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 15:33:18,390  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 15:33:19,419  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 15:33:21,674  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 15:33:24,513  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 15:33:28,619  INFO [main] JiRaTest:72 - Password selected=1234567
+ 2017-11-14 15:33:31,646  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 15:33:46,747  INFO [main] JiRaTest:82 - Logout label=
+ 2017-11-14 15:33:46,747  INFO [main] JiRaTest:90 - Login NOT succesful
+ 2017-11-14 15:33:46,760  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 15:33:46,761  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 15:33:47,977  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 15:33:50,102  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 15:33:52,983  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 15:33:57,070  INFO [main] JiRaTest:72 - Password selected=123456
+ 2017-11-14 15:34:10,343  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 15:34:15,421  INFO [main] JiRaTest:82 - Logout label=Log out
+ 2017-11-14 15:34:15,421  INFO [main] JiRaTest:86 - Login succesful
+ 2017-11-14 15:34:17,694  INFO [main] JiRaTest:100 - Login label=Login
+ 2017-11-14 15:34:17,695  INFO [main] JiRaTest:104 - Logout is succesful
+ 2017-11-14 15:34:17,697  INFO [main] BaseClass:166 - Closing the browser
+ 2017-11-14 16:04:50,317  INFO [main] BaseClass:141 - IE browser launching..
+ 2017-11-14 16:05:00,681  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 16:05:00,686  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 16:05:02,278  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 16:05:06,107  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 16:05:08,568  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 16:05:20,882  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 16:05:20,883  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 16:05:21,585  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 16:05:31,751  INFO [main] BaseClass:166 - Closing the browser
+ 2017-11-14 16:05:47,937  INFO [main] BaseClass:141 - IE browser launching..
+ 2017-11-14 16:05:57,741  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 16:05:57,746  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 16:05:59,238  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 16:06:03,051  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 16:06:06,698  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 16:06:11,095  INFO [main] JiRaTest:72 - Password selected=1234567
+ 2017-11-14 16:06:14,670  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 16:06:29,826  INFO [main] JiRaTest:82 - Logout label=
+ 2017-11-14 16:06:29,827  INFO [main] JiRaTest:90 - Login NOT succesful
+ 2017-11-14 16:06:29,859  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 16:06:29,864  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 16:06:31,682  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 16:06:35,427  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 16:06:38,973  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 16:06:43,331  INFO [main] JiRaTest:72 - Password selected=123456
+ 2017-11-14 16:06:57,944  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 16:07:03,173  INFO [main] JiRaTest:82 - Logout label=Log out
+ 2017-11-14 16:07:03,173  INFO [main] JiRaTest:86 - Login succesful
+ 2017-11-14 16:07:15,601  INFO [main] JiRaTest:100 - Login label=
+ 2017-11-14 16:07:15,602  INFO [main] JiRaTest:107 - Logout is NOT succesful
+ 2017-11-14 16:07:15,611  INFO [main] BaseClass:166 - Closing the browser
+ 2017-11-14 16:42:41,975  INFO [main] BaseClass:123 - firefox browser launching..
+ 2017-11-14 16:42:48,481  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 16:42:48,487  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 16:42:49,716  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 16:42:52,029  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 16:42:55,080  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 16:42:59,174  INFO [main] JiRaTest:72 - Password selected=1234567
+ 2017-11-14 16:43:02,171  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 16:43:17,246  INFO [main] JiRaTest:82 - Logout label=
+ 2017-11-14 16:43:17,247  INFO [main] JiRaTest:90 - Login NOT succesful
+ 2017-11-14 16:43:17,259  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 16:43:17,259  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 16:43:18,570  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 16:43:20,728  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 16:43:23,579  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 16:43:27,661  INFO [main] JiRaTest:72 - Password selected=123456
+ 2017-11-14 16:43:41,924  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 16:43:47,013  INFO [main] JiRaTest:82 - Logout label=Log out
+ 2017-11-14 16:43:47,013  INFO [main] JiRaTest:86 - Login succesful
+ 2017-11-14 16:43:49,205  INFO [main] JiRaTest:100 - Login label=Login
+ 2017-11-14 16:43:49,205  INFO [main] JiRaTest:104 - Logout is succesful
+ 2017-11-14 16:43:49,208  INFO [main] BaseClass:166 - Closing the browser
+ 2017-11-14 19:51:06,425  INFO [main] BaseClass:123 - firefox browser launching..
+ 2017-11-14 19:51:12,476  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 19:51:12,481  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 19:51:15,524  INFO [main] JiRaTest:54 - Browser capture title =Problem loading page
+ 2017-11-14 19:51:26,266  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 19:51:26,267  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 19:51:27,312  INFO [main] BaseClass:166 - Closing the browser
+ 2017-11-14 19:53:41,466  INFO [main] BaseClass:123 - firefox browser launching..
+ 2017-11-14 19:53:46,786  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 19:53:46,792  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 19:53:49,540  INFO [main] JiRaTest:54 - Browser capture title =Problem loading page
+ 2017-11-14 19:53:59,510  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 19:53:59,511  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 19:54:00,517  INFO [main] BaseClass:166 - Closing the browser
+ 2017-11-14 19:55:47,558  INFO [main] BaseClass:123 - firefox browser launching..
+ 2017-11-14 19:55:55,016  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 19:55:55,022  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 19:55:57,502  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 19:55:59,758  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 19:56:03,017  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 19:56:07,101  INFO [main] JiRaTest:72 - Password selected=1234567
+ 2017-11-14 19:56:10,151  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 19:56:25,310  INFO [main] JiRaTest:82 - Logout label=
+ 2017-11-14 19:56:25,311  INFO [main] JiRaTest:90 - Login NOT succesful
+ 2017-11-14 19:56:25,343  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 19:56:25,343  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-14 19:56:30,558  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-14 19:56:32,799  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-14 19:56:35,592  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-14 19:56:39,730  INFO [main] JiRaTest:72 - Password selected=123456
+ 2017-11-14 19:56:54,347  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-14 19:56:59,430  INFO [main] JiRaTest:82 - Logout label=Log out
+ 2017-11-14 19:56:59,431  INFO [main] JiRaTest:86 - Login succesful
+ 2017-11-14 19:57:01,664  INFO [main] JiRaTest:100 - Login label=Login
+ 2017-11-14 19:57:01,664  INFO [main] JiRaTest:104 - Logout is succesful
+ 2017-11-14 19:57:01,665  INFO [main] BaseClass:166 - Closing the browser
+ 2017-11-14 20:42:49,182  INFO [main] BaseClass:141 - IE browser launching..
+ 2017-11-14 20:42:49,878  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 20:42:49,883  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 20:42:49,896  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 20:42:49,896  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 20:42:49,898  INFO [main] BaseClass:167 - Closing the browser
+ 2017-11-14 20:44:23,987  INFO [main] BaseClass:141 - IE browser launching..
+ 2017-11-14 20:44:24,678  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 20:44:24,683  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 20:44:24,697  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 20:44:24,698  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 20:44:24,699  INFO [main] BaseClass:167 - Closing the browser
+ 2017-11-14 20:45:25,536  INFO [main] BaseClass:141 - IE browser launching..
+ 2017-11-14 20:45:26,238  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 20:45:26,243  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 20:45:26,255  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-14 20:45:26,255  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-14 20:45:26,257  INFO [main] BaseClass:167 - Closing the browser
+ 2017-11-15 10:13:15,103  INFO [main] BaseClass:134 - Chrome browser launching..
+ 2017-11-15 10:13:18,298  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-15 10:13:18,303  INFO [main] JiRaTest:42 - Test Data Iteration = 1
+ 2017-11-15 10:13:19,273  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-15 10:13:21,618  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-15 10:13:24,281  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-15 10:13:28,525  INFO [main] JiRaTest:72 - Password selected=1234567
+ 2017-11-15 10:13:31,047  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-15 10:13:46,103  INFO [main] JiRaTest:82 - Logout label=
+ 2017-11-15 10:13:46,103  INFO [main] JiRaTest:90 - Login NOT succesful
+ 2017-11-15 10:13:46,118  INFO [main] JiRaTest:34 - Launched test url=http://ddc2web001:8080/Retail/servletcontroller
+ 2017-11-15 10:13:46,118  INFO [main] JiRaTest:42 - Test Data Iteration = 2
+ 2017-11-15 10:13:46,612  INFO [main] JiRaTest:54 - Browser capture title =Temenos Connect Internet Banking 2016
+ 2017-11-15 10:13:48,891  INFO [main] JiRaTest:62 - Username selected=ROLFGERLINGTC
+ 2017-11-15 10:13:51,116  INFO [main] JiRaTest:67 - Click on the next button
+ 2017-11-15 10:14:01,204  INFO [main] JiRaTest:72 - Password selected=123456
+ 2017-11-15 10:14:20,668  INFO [main] JiRaTest:77 - Click on the SignIn button
+ 2017-11-15 10:14:25,727  INFO [main] JiRaTest:82 - Logout label=Log out
+ 2017-11-15 10:14:25,727  INFO [main] JiRaTest:86 - Login succesful
+ 2017-11-15 10:14:27,961  INFO [main] JiRaTest:100 - Login label=Login
+ 2017-11-15 10:14:27,961  INFO [main] JiRaTest:104 - Logout is succesful
+ 2017-11-15 10:14:27,961  INFO [main] BaseClass:167 - Closing the browser
+ 

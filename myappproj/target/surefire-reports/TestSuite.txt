@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 78.027 sec <<< FAILURE! - in TestSuite
+Testddclogin(com.cb.test.ddcTest)  Time elapsed: 27.821 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.cb.test.ddcTest.Testddclogin(ddcTest.java:93)
+

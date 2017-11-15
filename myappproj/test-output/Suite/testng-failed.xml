@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.cb.test.ddcTest">
+        <methods>
+          <include name="getResult"/>
+          <include name="closeApplication"/>
+          <include name="initializeTestBaseSetup"/>
+          <include name="setUp"/>
+          <include name="tearDownSuite"/>
+          <include name="before"/>
+          <include name="TestJira"/>
+        </methods>
+      </class> <!-- com.cb.test.ddcTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
